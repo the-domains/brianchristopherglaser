@@ -1,4 +1,3 @@
-layout_spectrum: 0.03996673319488764
 typography_spectrum: 0.6583795344922692
 color:
   brandStrength: 0.43960772966966033
@@ -11,4 +10,8 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.03996673319488764
+author:
+  name: Brian Christopher Glaser
+  email: bcglaser@gmail.com
 name: BrianChristopherGlaser
